@@ -1,0 +1,1001 @@
+Age,Favorite_Color,Gift_Preference,Distance_to_Home_km,Gift_Weight_kg,Santa_Delivery_Time_min
+16,Red,Book,20,3.0,60
+14,Green,Book,15,2.0,50
+14,Green,Book,15,2.0,50
+10,Red,Lego,8,1.0,25
+10,Red,Lego,8,1.0,25
+18,Green,Gift Card,25,4.0,80
+14,Green,Book,15,2.0,50
+18,Green,Gift Card,25,4.0,80
+5,Red,Teddy Bear,2,0.5,10
+18,Green,Gift Card,25,4.0,80
+8,Blue,Board Game,3,0.8,15
+14,Green,Book,15,2.0,50
+10,Red,Lego,8,1.0,25
+14,Green,Book,15,2.0,50
+5,Red,Teddy Bear,2,0.5,10
+18,Green,Gift Card,25,4.0,80
+7,Green,Lego,5,1.2,20
+12,Blue,Board Game,7,1.5,30
+10,Red,Lego,8,1.0,25
+16,Red,Book,20,3.0,60
+5,Red,Teddy Bear,2,0.5,10
+16,Red,Book,20,3.0,60
+16,Red,Book,20,3.0,60
+7,Green,Lego,5,1.2,20
+7,Green,Lego,5,1.2,20
+12,Blue,Board Game,7,1.5,30
+5,Red,Teddy Bear,2,0.5,10
+12,Blue,Board Game,7,1.5,30
+16,Red,Book,20,3.0,60
+5,Red,Teddy Bear,2,0.5,10
+5,Red,Teddy Bear,2,0.5,10
+7,Green,Lego,5,1.2,20
+14,Green,Book,15,2.0,50
+5,Red,Teddy Bear,2,0.5,10
+14,Green,Book,15,2.0,50
+16,Red,Book,20,3.0,60
+5,Red,Teddy Bear,2,0.5,10
+5,Red,Teddy Bear,2,0.5,10
+10,Red,Lego,8,1.0,25
+16,Red,Book,20,3.0,60
+5,Red,Teddy Bear,2,0.5,10
+5,Red,Teddy Bear,2,0.5,10
+12,Blue,Board Game,7,1.5,30
+7,Green,Lego,5,1.2,20
+8,Blue,Board Game,3,0.8,15
+7,Green,Lego,5,1.2,20
+7,Green,Lego,5,1.2,20
+14,Green,Book,15,2.0,50
+5,Red,Teddy Bear,2,0.5,10
+16,Red,Book,20,3.0,60
+14,Green,Book,15,2.0,50
+5,Red,Teddy Bear,2,0.5,10
+12,Blue,Board Game,7,1.5,30
+7,Green,Lego,5,1.2,20
+14,Green,Book,15,2.0,50
+16,Red,Book,20,3.0,60
+14,Green,Book,15,2.0,50
+5,Red,Teddy Bear,2,0.5,10
+8,Blue,Board Game,3,0.8,15
+18,Green,Gift Card,25,4.0,80
+12,Blue,Board Game,7,1.5,30
+16,Red,Book,20,3.0,60
+12,Blue,Board Game,7,1.5,30
+8,Blue,Board Game,3,0.8,15
+7,Green,Lego,5,1.2,20
+14,Green,Book,15,2.0,50
+8,Blue,Board Game,3,0.8,15
+8,Blue,Board Game,3,0.8,15
+10,Red,Lego,8,1.0,25
+18,Green,Gift Card,25,4.0,80
+7,Green,Lego,5,1.2,20
+7,Green,Lego,5,1.2,20
+7,Green,Lego,5,1.2,20
+14,Green,Book,15,2.0,50
+8,Blue,Board Game,3,0.8,15
+10,Red,Lego,8,1.0,25
+12,Blue,Board Game,7,1.5,30
+16,Red,Book,20,3.0,60
+18,Green,Gift Card,25,4.0,80
+5,Red,Teddy Bear,2,0.5,10
+14,Green,Book,15,2.0,50
+14,Green,Book,15,2.0,50
+8,Blue,Board Game,3,0.8,15
+18,Green,Gift Card,25,4.0,80
+12,Blue,Board Game,7,1.5,30
+5,Red,Teddy Bear,2,0.5,10
+7,Green,Lego,5,1.2,20
+7,Green,Lego,5,1.2,20
+10,Red,Lego,8,1.0,25
+7,Green,Lego,5,1.2,20
+16,Red,Book,20,3.0,60
+18,Green,Gift Card,25,4.0,80
+12,Blue,Board Game,7,1.5,30
+12,Blue,Board Game,7,1.5,30
+8,Blue,Board Game,3,0.8,15
+16,Red,Book,20,3.0,60
+5,Red,Teddy Bear,2,0.5,10
+5,Red,Teddy Bear,2,0.5,10
+14,Green,Book,15,2.0,50
+5,Red,Teddy Bear,2,0.5,10
+10,Red,Lego,8,1.0,25
+7,Green,Lego,5,1.2,20
+12,Blue,Board Game,7,1.5,30
+14,Green,Book,15,2.0,50
+5,Red,Teddy Bear,2,0.5,10
+12,Blue,Board Game,7,1.5,30
+7,Green,Lego,5,1.2,20
+16,Red,Book,20,3.0,60
+8,Blue,Board Game,3,0.8,15
+10,Red,Lego,8,1.0,25
+8,Blue,Board Game,3,0.8,15
+14,Green,Book,15,2.0,50
+7,Green,Lego,5,1.2,20
+12,Blue,Board Game,7,1.5,30
+16,Red,Book,20,3.0,60
+14,Green,Book,15,2.0,50
+14,Green,Book,15,2.0,50
+10,Red,Lego,8,1.0,25
+8,Blue,Board Game,3,0.8,15
+7,Green,Lego,5,1.2,20
+18,Green,Gift Card,25,4.0,80
+8,Blue,Board Game,3,0.8,15
+18,Green,Gift Card,25,4.0,80
+14,Green,Book,15,2.0,50
+18,Green,Gift Card,25,4.0,80
+12,Blue,Board Game,7,1.5,30
+14,Green,Book,15,2.0,50
+10,Red,Lego,8,1.0,25
+5,Red,Teddy Bear,2,0.5,10
+18,Green,Gift Card,25,4.0,80
+8,Blue,Board Game,3,0.8,15
+8,Blue,Board Game,3,0.8,15
+18,Green,Gift Card,25,4.0,80
+8,Blue,Board Game,3,0.8,15
+10,Red,Lego,8,1.0,25
+7,Green,Lego,5,1.2,20
+5,Red,Teddy Bear,2,0.5,10
+7,Green,Lego,5,1.2,20
+7,Green,Lego,5,1.2,20
+12,Blue,Board Game,7,1.5,30
+8,Blue,Board Game,3,0.8,15
+14,Green,Book,15,2.0,50
+10,Red,Lego,8,1.0,25
+7,Green,Lego,5,1.2,20
+12,Blue,Board Game,7,1.5,30
+16,Red,Book,20,3.0,60
+14,Green,Book,15,2.0,50
+7,Green,Lego,5,1.2,20
+16,Red,Book,20,3.0,60
+12,Blue,Board Game,7,1.5,30
+16,Red,Book,20,3.0,60
+10,Red,Lego,8,1.0,25
+12,Blue,Board Game,7,1.5,30
+14,Green,Book,15,2.0,50
+10,Red,Lego,8,1.0,25
+8,Blue,Board Game,3,0.8,15
+12,Blue,Board Game,7,1.5,30
+8,Blue,Board Game,3,0.8,15
+16,Red,Book,20,3.0,60
+16,Red,Book,20,3.0,60
+8,Blue,Board Game,3,0.8,15
+5,Red,Teddy Bear,2,0.5,10
+14,Green,Book,15,2.0,50
+18,Green,Gift Card,25,4.0,80
+12,Blue,Board Game,7,1.5,30
+18,Green,Gift Card,25,4.0,80
+7,Green,Lego,5,1.2,20
+12,Blue,Board Game,7,1.5,30
+7,Green,Lego,5,1.2,20
+12,Blue,Board Game,7,1.5,30
+5,Red,Teddy Bear,2,0.5,10
+10,Red,Lego,8,1.0,25
+10,Red,Lego,8,1.0,25
+18,Green,Gift Card,25,4.0,80
+18,Green,Gift Card,25,4.0,80
+5,Red,Teddy Bear,2,0.5,10
+12,Blue,Board Game,7,1.5,30
+12,Blue,Board Game,7,1.5,30
+14,Green,Book,15,2.0,50
+5,Red,Teddy Bear,2,0.5,10
+7,Green,Lego,5,1.2,20
+12,Blue,Board Game,7,1.5,30
+8,Blue,Board Game,3,0.8,15
+18,Green,Gift Card,25,4.0,80
+8,Blue,Board Game,3,0.8,15
+5,Red,Teddy Bear,2,0.5,10
+14,Green,Book,15,2.0,50
+8,Blue,Board Game,3,0.8,15
+5,Red,Teddy Bear,2,0.5,10
+10,Red,Lego,8,1.0,25
+16,Red,Book,20,3.0,60
+8,Blue,Board Game,3,0.8,15
+16,Red,Book,20,3.0,60
+8,Blue,Board Game,3,0.8,15
+14,Green,Book,15,2.0,50
+12,Blue,Board Game,7,1.5,30
+5,Red,Teddy Bear,2,0.5,10
+14,Green,Book,15,2.0,50
+16,Red,Book,20,3.0,60
+18,Green,Gift Card,25,4.0,80
+14,Green,Book,15,2.0,50
+12,Blue,Board Game,7,1.5,30
+10,Red,Lego,8,1.0,25
+16,Red,Book,20,3.0,60
+14,Green,Book,15,2.0,50
+14,Green,Book,15,2.0,50
+14,Green,Book,15,2.0,50
+7,Green,Lego,5,1.2,20
+12,Blue,Board Game,7,1.5,30
+18,Green,Gift Card,25,4.0,80
+8,Blue,Board Game,3,0.8,15
+12,Blue,Board Game,7,1.5,30
+5,Red,Teddy Bear,2,0.5,10
+16,Red,Book,20,3.0,60
+14,Green,Book,15,2.0,50
+14,Green,Book,15,2.0,50
+5,Red,Teddy Bear,2,0.5,10
+14,Green,Book,15,2.0,50
+16,Red,Book,20,3.0,60
+12,Blue,Board Game,7,1.5,30
+16,Red,Book,20,3.0,60
+16,Red,Book,20,3.0,60
+10,Red,Lego,8,1.0,25
+14,Green,Book,15,2.0,50
+12,Blue,Board Game,7,1.5,30
+8,Blue,Board Game,3,0.8,15
+12,Blue,Board Game,7,1.5,30
+8,Blue,Board Game,3,0.8,15
+18,Green,Gift Card,25,4.0,80
+8,Blue,Board Game,3,0.8,15
+12,Blue,Board Game,7,1.5,30
+8,Blue,Board Game,3,0.8,15
+14,Green,Book,15,2.0,50
+12,Blue,Board Game,7,1.5,30
+12,Blue,Board Game,7,1.5,30
+10,Red,Lego,8,1.0,25
+8,Blue,Board Game,3,0.8,15
+10,Red,Lego,8,1.0,25
+8,Blue,Board Game,3,0.8,15
+18,Green,Gift Card,25,4.0,80
+8,Blue,Board Game,3,0.8,15
+10,Red,Lego,8,1.0,25
+18,Green,Gift Card,25,4.0,80
+16,Red,Book,20,3.0,60
+18,Green,Gift Card,25,4.0,80
+5,Red,Teddy Bear,2,0.5,10
+18,Green,Gift Card,25,4.0,80
+10,Red,Lego,8,1.0,25
+10,Red,Lego,8,1.0,25
+10,Red,Lego,8,1.0,25
+8,Blue,Board Game,3,0.8,15
+10,Red,Lego,8,1.0,25
+5,Red,Teddy Bear,2,0.5,10
+16,Red,Book,20,3.0,60
+8,Blue,Board Game,3,0.8,15
+12,Blue,Board Game,7,1.5,30
+10,Red,Lego,8,1.0,25
+14,Green,Book,15,2.0,50
+18,Green,Gift Card,25,4.0,80
+18,Green,Gift Card,25,4.0,80
+8,Blue,Board Game,3,0.8,15
+10,Red,Lego,8,1.0,25
+12,Blue,Board Game,7,1.5,30
+8,Blue,Board Game,3,0.8,15
+10,Red,Lego,8,1.0,25
+8,Blue,Board Game,3,0.8,15
+14,Green,Book,15,2.0,50
+18,Green,Gift Card,25,4.0,80
+10,Red,Lego,8,1.0,25
+18,Green,Gift Card,25,4.0,80
+18,Green,Gift Card,25,4.0,80
+16,Red,Book,20,3.0,60
+14,Green,Book,15,2.0,50
+12,Blue,Board Game,7,1.5,30
+16,Red,Book,20,3.0,60
+16,Red,Book,20,3.0,60
+5,Red,Teddy Bear,2,0.5,10
+10,Red,Lego,8,1.0,25
+18,Green,Gift Card,25,4.0,80
+8,Blue,Board Game,3,0.8,15
+10,Red,Lego,8,1.0,25
+10,Red,Lego,8,1.0,25
+5,Red,Teddy Bear,2,0.5,10
+10,Red,Lego,8,1.0,25
+16,Red,Book,20,3.0,60
+12,Blue,Board Game,7,1.5,30
+18,Green,Gift Card,25,4.0,80
+5,Red,Teddy Bear,2,0.5,10
+8,Blue,Board Game,3,0.8,15
+12,Blue,Board Game,7,1.5,30
+5,Red,Teddy Bear,2,0.5,10
+18,Green,Gift Card,25,4.0,80
+5,Red,Teddy Bear,2,0.5,10
+12,Blue,Board Game,7,1.5,30
+7,Green,Lego,5,1.2,20
+8,Blue,Board Game,3,0.8,15
+7,Green,Lego,5,1.2,20
+10,Red,Lego,8,1.0,25
+7,Green,Lego,5,1.2,20
+10,Red,Lego,8,1.0,25
+16,Red,Book,20,3.0,60
+16,Red,Book,20,3.0,60
+18,Green,Gift Card,25,4.0,80
+8,Blue,Board Game,3,0.8,15
+5,Red,Teddy Bear,2,0.5,10
+8,Blue,Board Game,3,0.8,15
+7,Green,Lego,5,1.2,20
+12,Blue,Board Game,7,1.5,30
+10,Red,Lego,8,1.0,25
+10,Red,Lego,8,1.0,25
+14,Green,Book,15,2.0,50
+8,Blue,Board Game,3,0.8,15
+16,Red,Book,20,3.0,60
+16,Red,Book,20,3.0,60
+12,Blue,Board Game,7,1.5,30
+8,Blue,Board Game,3,0.8,15
+8,Blue,Board Game,3,0.8,15
+14,Green,Book,15,2.0,50
+18,Green,Gift Card,25,4.0,80
+7,Green,Lego,5,1.2,20
+18,Green,Gift Card,25,4.0,80
+5,Red,Teddy Bear,2,0.5,10
+18,Green,Gift Card,25,4.0,80
+5,Red,Teddy Bear,2,0.5,10
+14,Green,Book,15,2.0,50
+18,Green,Gift Card,25,4.0,80
+18,Green,Gift Card,25,4.0,80
+12,Blue,Board Game,7,1.5,30
+10,Red,Lego,8,1.0,25
+5,Red,Teddy Bear,2,0.5,10
+16,Red,Book,20,3.0,60
+18,Green,Gift Card,25,4.0,80
+10,Red,Lego,8,1.0,25
+18,Green,Gift Card,25,4.0,80
+8,Blue,Board Game,3,0.8,15
+8,Blue,Board Game,3,0.8,15
+18,Green,Gift Card,25,4.0,80
+5,Red,Teddy Bear,2,0.5,10
+8,Blue,Board Game,3,0.8,15
+7,Green,Lego,5,1.2,20
+12,Blue,Board Game,7,1.5,30
+5,Red,Teddy Bear,2,0.5,10
+14,Green,Book,15,2.0,50
+16,Red,Book,20,3.0,60
+18,Green,Gift Card,25,4.0,80
+18,Green,Gift Card,25,4.0,80
+12,Blue,Board Game,7,1.5,30
+14,Green,Book,15,2.0,50
+16,Red,Book,20,3.0,60
+7,Green,Lego,5,1.2,20
+14,Green,Book,15,2.0,50
+16,Red,Book,20,3.0,60
+7,Green,Lego,5,1.2,20
+16,Red,Book,20,3.0,60
+10,Red,Lego,8,1.0,25
+5,Red,Teddy Bear,2,0.5,10
+18,Green,Gift Card,25,4.0,80
+14,Green,Book,15,2.0,50
+5,Red,Teddy Bear,2,0.5,10
+8,Blue,Board Game,3,0.8,15
+5,Red,Teddy Bear,2,0.5,10
+16,Red,Book,20,3.0,60
+10,Red,Lego,8,1.0,25
+14,Green,Book,15,2.0,50
+7,Green,Lego,5,1.2,20
+12,Blue,Board Game,7,1.5,30
+5,Red,Teddy Bear,2,0.5,10
+14,Green,Book,15,2.0,50
+5,Red,Teddy Bear,2,0.5,10
+14,Green,Book,15,2.0,50
+7,Green,Lego,5,1.2,20
+5,Red,Teddy Bear,2,0.5,10
+5,Red,Teddy Bear,2,0.5,10
+7,Green,Lego,5,1.2,20
+5,Red,Teddy Bear,2,0.5,10
+14,Green,Book,15,2.0,50
+18,Green,Gift Card,25,4.0,80
+16,Red,Book,20,3.0,60
+7,Green,Lego,5,1.2,20
+18,Green,Gift Card,25,4.0,80
+18,Green,Gift Card,25,4.0,80
+12,Blue,Board Game,7,1.5,30
+12,Blue,Board Game,7,1.5,30
+10,Red,Lego,8,1.0,25
+12,Blue,Board Game,7,1.5,30
+16,Red,Book,20,3.0,60
+14,Green,Book,15,2.0,50
+18,Green,Gift Card,25,4.0,80
+18,Green,Gift Card,25,4.0,80
+7,Green,Lego,5,1.2,20
+5,Red,Teddy Bear,2,0.5,10
+16,Red,Book,20,3.0,60
+18,Green,Gift Card,25,4.0,80
+18,Green,Gift Card,25,4.0,80
+16,Red,Book,20,3.0,60
+12,Blue,Board Game,7,1.5,30
+14,Green,Book,15,2.0,50
+18,Green,Gift Card,25,4.0,80
+14,Green,Book,15,2.0,50
+8,Blue,Board Game,3,0.8,15
+7,Green,Lego,5,1.2,20
+5,Red,Teddy Bear,2,0.5,10
+10,Red,Lego,8,1.0,25
+14,Green,Book,15,2.0,50
+5,Red,Teddy Bear,2,0.5,10
+18,Green,Gift Card,25,4.0,80
+14,Green,Book,15,2.0,50
+18,Green,Gift Card,25,4.0,80
+18,Green,Gift Card,25,4.0,80
+5,Red,Teddy Bear,2,0.5,10
+12,Blue,Board Game,7,1.5,30
+14,Green,Book,15,2.0,50
+14,Green,Book,15,2.0,50
+18,Green,Gift Card,25,4.0,80
+8,Blue,Board Game,3,0.8,15
+16,Red,Book,20,3.0,60
+18,Green,Gift Card,25,4.0,80
+12,Blue,Board Game,7,1.5,30
+16,Red,Book,20,3.0,60
+10,Red,Lego,8,1.0,25
+8,Blue,Board Game,3,0.8,15
+5,Red,Teddy Bear,2,0.5,10
+16,Red,Book,20,3.0,60
+18,Green,Gift Card,25,4.0,80
+5,Red,Teddy Bear,2,0.5,10
+12,Blue,Board Game,7,1.5,30
+14,Green,Book,15,2.0,50
+14,Green,Book,15,2.0,50
+12,Blue,Board Game,7,1.5,30
+18,Green,Gift Card,25,4.0,80
+12,Blue,Board Game,7,1.5,30
+16,Red,Book,20,3.0,60
+14,Green,Book,15,2.0,50
+5,Red,Teddy Bear,2,0.5,10
+12,Blue,Board Game,7,1.5,30
+7,Green,Lego,5,1.2,20
+12,Blue,Board Game,7,1.5,30
+5,Red,Teddy Bear,2,0.5,10
+8,Blue,Board Game,3,0.8,15
+14,Green,Book,15,2.0,50
+8,Blue,Board Game,3,0.8,15
+16,Red,Book,20,3.0,60
+5,Red,Teddy Bear,2,0.5,10
+8,Blue,Board Game,3,0.8,15
+18,Green,Gift Card,25,4.0,80
+18,Green,Gift Card,25,4.0,80
+10,Red,Lego,8,1.0,25
+7,Green,Lego,5,1.2,20
+14,Green,Book,15,2.0,50
+10,Red,Lego,8,1.0,25
+10,Red,Lego,8,1.0,25
+8,Blue,Board Game,3,0.8,15
+7,Green,Lego,5,1.2,20
+14,Green,Book,15,2.0,50
+16,Red,Book,20,3.0,60
+14,Green,Book,15,2.0,50
+12,Blue,Board Game,7,1.5,30
+8,Blue,Board Game,3,0.8,15
+14,Green,Book,15,2.0,50
+16,Red,Book,20,3.0,60
+7,Green,Lego,5,1.2,20
+7,Green,Lego,5,1.2,20
+5,Red,Teddy Bear,2,0.5,10
+14,Green,Book,15,2.0,50
+16,Red,Book,20,3.0,60
+12,Blue,Board Game,7,1.5,30
+14,Green,Book,15,2.0,50
+10,Red,Lego,8,1.0,25
+12,Blue,Board Game,7,1.5,30
+16,Red,Book,20,3.0,60
+8,Blue,Board Game,3,0.8,15
+16,Red,Book,20,3.0,60
+10,Red,Lego,8,1.0,25
+8,Blue,Board Game,3,0.8,15
+5,Red,Teddy Bear,2,0.5,10
+8,Blue,Board Game,3,0.8,15
+7,Green,Lego,5,1.2,20
+10,Red,Lego,8,1.0,25
+18,Green,Gift Card,25,4.0,80
+18,Green,Gift Card,25,4.0,80
+10,Red,Lego,8,1.0,25
+16,Red,Book,20,3.0,60
+10,Red,Lego,8,1.0,25
+10,Red,Lego,8,1.0,25
+12,Blue,Board Game,7,1.5,30
+8,Blue,Board Game,3,0.8,15
+10,Red,Lego,8,1.0,25
+7,Green,Lego,5,1.2,20
+16,Red,Book,20,3.0,60
+8,Blue,Board Game,3,0.8,15
+18,Green,Gift Card,25,4.0,80
+18,Green,Gift Card,25,4.0,80
+12,Blue,Board Game,7,1.5,30
+5,Red,Teddy Bear,2,0.5,10
+16,Red,Book,20,3.0,60
+5,Red,Teddy Bear,2,0.5,10
+18,Green,Gift Card,25,4.0,80
+10,Red,Lego,8,1.0,25
+18,Green,Gift Card,25,4.0,80
+5,Red,Teddy Bear,2,0.5,10
+18,Green,Gift Card,25,4.0,80
+14,Green,Book,15,2.0,50
+12,Blue,Board Game,7,1.5,30
+10,Red,Lego,8,1.0,25
+5,Red,Teddy Bear,2,0.5,10
+14,Green,Book,15,2.0,50
+8,Blue,Board Game,3,0.8,15
+7,Green,Lego,5,1.2,20
+10,Red,Lego,8,1.0,25
+7,Green,Lego,5,1.2,20
+7,Green,Lego,5,1.2,20
+7,Green,Lego,5,1.2,20
+18,Green,Gift Card,25,4.0,80
+10,Red,Lego,8,1.0,25
+16,Red,Book,20,3.0,60
+8,Blue,Board Game,3,0.8,15
+10,Red,Lego,8,1.0,25
+12,Blue,Board Game,7,1.5,30
+10,Red,Lego,8,1.0,25
+14,Green,Book,15,2.0,50
+10,Red,Lego,8,1.0,25
+5,Red,Teddy Bear,2,0.5,10
+10,Red,Lego,8,1.0,25
+7,Green,Lego,5,1.2,20
+5,Red,Teddy Bear,2,0.5,10
+16,Red,Book,20,3.0,60
+16,Red,Book,20,3.0,60
+5,Red,Teddy Bear,2,0.5,10
+5,Red,Teddy Bear,2,0.5,10
+18,Green,Gift Card,25,4.0,80
+7,Green,Lego,5,1.2,20
+12,Blue,Board Game,7,1.5,30
+5,Red,Teddy Bear,2,0.5,10
+18,Green,Gift Card,25,4.0,80
+12,Blue,Board Game,7,1.5,30
+8,Blue,Board Game,3,0.8,15
+10,Red,Lego,8,1.0,25
+18,Green,Gift Card,25,4.0,80
+5,Red,Teddy Bear,2,0.5,10
+10,Red,Lego,8,1.0,25
+14,Green,Book,15,2.0,50
+10,Red,Lego,8,1.0,25
+7,Green,Lego,5,1.2,20
+10,Red,Lego,8,1.0,25
+12,Blue,Board Game,7,1.5,30
+10,Red,Lego,8,1.0,25
+7,Green,Lego,5,1.2,20
+10,Red,Lego,8,1.0,25
+14,Green,Book,15,2.0,50
+5,Red,Teddy Bear,2,0.5,10
+10,Red,Lego,8,1.0,25
+12,Blue,Board Game,7,1.5,30
+18,Green,Gift Card,25,4.0,80
+16,Red,Book,20,3.0,60
+16,Red,Book,20,3.0,60
+7,Green,Lego,5,1.2,20
+7,Green,Lego,5,1.2,20
+14,Green,Book,15,2.0,50
+14,Green,Book,15,2.0,50
+14,Green,Book,15,2.0,50
+10,Red,Lego,8,1.0,25
+16,Red,Book,20,3.0,60
+5,Red,Teddy Bear,2,0.5,10
+18,Green,Gift Card,25,4.0,80
+7,Green,Lego,5,1.2,20
+18,Green,Gift Card,25,4.0,80
+8,Blue,Board Game,3,0.8,15
+16,Red,Book,20,3.0,60
+16,Red,Book,20,3.0,60
+16,Red,Book,20,3.0,60
+10,Red,Lego,8,1.0,25
+14,Green,Book,15,2.0,50
+5,Red,Teddy Bear,2,0.5,10
+14,Green,Book,15,2.0,50
+8,Blue,Board Game,3,0.8,15
+8,Blue,Board Game,3,0.8,15
+7,Green,Lego,5,1.2,20
+7,Green,Lego,5,1.2,20
+5,Red,Teddy Bear,2,0.5,10
+14,Green,Book,15,2.0,50
+18,Green,Gift Card,25,4.0,80
+14,Green,Book,15,2.0,50
+10,Red,Lego,8,1.0,25
+5,Red,Teddy Bear,2,0.5,10
+7,Green,Lego,5,1.2,20
+7,Green,Lego,5,1.2,20
+8,Blue,Board Game,3,0.8,15
+7,Green,Lego,5,1.2,20
+10,Red,Lego,8,1.0,25
+12,Blue,Board Game,7,1.5,30
+5,Red,Teddy Bear,2,0.5,10
+16,Red,Book,20,3.0,60
+5,Red,Teddy Bear,2,0.5,10
+14,Green,Book,15,2.0,50
+18,Green,Gift Card,25,4.0,80
+8,Blue,Board Game,3,0.8,15
+8,Blue,Board Game,3,0.8,15
+7,Green,Lego,5,1.2,20
+5,Red,Teddy Bear,2,0.5,10
+14,Green,Book,15,2.0,50
+16,Red,Book,20,3.0,60
+16,Red,Book,20,3.0,60
+18,Green,Gift Card,25,4.0,80
+5,Red,Teddy Bear,2,0.5,10
+18,Green,Gift Card,25,4.0,80
+10,Red,Lego,8,1.0,25
+14,Green,Book,15,2.0,50
+16,Red,Book,20,3.0,60
+12,Blue,Board Game,7,1.5,30
+8,Blue,Board Game,3,0.8,15
+5,Red,Teddy Bear,2,0.5,10
+10,Red,Lego,8,1.0,25
+12,Blue,Board Game,7,1.5,30
+8,Blue,Board Game,3,0.8,15
+5,Red,Teddy Bear,2,0.5,10
+7,Green,Lego,5,1.2,20
+18,Green,Gift Card,25,4.0,80
+8,Blue,Board Game,3,0.8,15
+18,Green,Gift Card,25,4.0,80
+16,Red,Book,20,3.0,60
+7,Green,Lego,5,1.2,20
+7,Green,Lego,5,1.2,20
+18,Green,Gift Card,25,4.0,80
+7,Green,Lego,5,1.2,20
+7,Green,Lego,5,1.2,20
+5,Red,Teddy Bear,2,0.5,10
+14,Green,Book,15,2.0,50
+10,Red,Lego,8,1.0,25
+14,Green,Book,15,2.0,50
+7,Green,Lego,5,1.2,20
+5,Red,Teddy Bear,2,0.5,10
+10,Red,Lego,8,1.0,25
+5,Red,Teddy Bear,2,0.5,10
+18,Green,Gift Card,25,4.0,80
+5,Red,Teddy Bear,2,0.5,10
+7,Green,Lego,5,1.2,20
+7,Green,Lego,5,1.2,20
+10,Red,Lego,8,1.0,25
+12,Blue,Board Game,7,1.5,30
+12,Blue,Board Game,7,1.5,30
+18,Green,Gift Card,25,4.0,80
+5,Red,Teddy Bear,2,0.5,10
+7,Green,Lego,5,1.2,20
+7,Green,Lego,5,1.2,20
+12,Blue,Board Game,7,1.5,30
+7,Green,Lego,5,1.2,20
+8,Blue,Board Game,3,0.8,15
+12,Blue,Board Game,7,1.5,30
+7,Green,Lego,5,1.2,20
+5,Red,Teddy Bear,2,0.5,10
+10,Red,Lego,8,1.0,25
+16,Red,Book,20,3.0,60
+7,Green,Lego,5,1.2,20
+7,Green,Lego,5,1.2,20
+5,Red,Teddy Bear,2,0.5,10
+12,Blue,Board Game,7,1.5,30
+14,Green,Book,15,2.0,50
+8,Blue,Board Game,3,0.8,15
+18,Green,Gift Card,25,4.0,80
+14,Green,Book,15,2.0,50
+18,Green,Gift Card,25,4.0,80
+10,Red,Lego,8,1.0,25
+18,Green,Gift Card,25,4.0,80
+5,Red,Teddy Bear,2,0.5,10
+18,Green,Gift Card,25,4.0,80
+10,Red,Lego,8,1.0,25
+14,Green,Book,15,2.0,50
+12,Blue,Board Game,7,1.5,30
+7,Green,Lego,5,1.2,20
+5,Red,Teddy Bear,2,0.5,10
+7,Green,Lego,5,1.2,20
+8,Blue,Board Game,3,0.8,15
+5,Red,Teddy Bear,2,0.5,10
+14,Green,Book,15,2.0,50
+5,Red,Teddy Bear,2,0.5,10
+7,Green,Lego,5,1.2,20
+12,Blue,Board Game,7,1.5,30
+8,Blue,Board Game,3,0.8,15
+16,Red,Book,20,3.0,60
+7,Green,Lego,5,1.2,20
+7,Green,Lego,5,1.2,20
+18,Green,Gift Card,25,4.0,80
+7,Green,Lego,5,1.2,20
+7,Green,Lego,5,1.2,20
+14,Green,Book,15,2.0,50
+10,Red,Lego,8,1.0,25
+14,Green,Book,15,2.0,50
+7,Green,Lego,5,1.2,20
+16,Red,Book,20,3.0,60
+8,Blue,Board Game,3,0.8,15
+5,Red,Teddy Bear,2,0.5,10
+8,Blue,Board Game,3,0.8,15
+14,Green,Book,15,2.0,50
+18,Green,Gift Card,25,4.0,80
+5,Red,Teddy Bear,2,0.5,10
+10,Red,Lego,8,1.0,25
+16,Red,Book,20,3.0,60
+14,Green,Book,15,2.0,50
+12,Blue,Board Game,7,1.5,30
+10,Red,Lego,8,1.0,25
+5,Red,Teddy Bear,2,0.5,10
+8,Blue,Board Game,3,0.8,15
+10,Red,Lego,8,1.0,25
+10,Red,Lego,8,1.0,25
+5,Red,Teddy Bear,2,0.5,10
+8,Blue,Board Game,3,0.8,15
+16,Red,Book,20,3.0,60
+8,Blue,Board Game,3,0.8,15
+8,Blue,Board Game,3,0.8,15
+16,Red,Book,20,3.0,60
+5,Red,Teddy Bear,2,0.5,10
+12,Blue,Board Game,7,1.5,30
+8,Blue,Board Game,3,0.8,15
+7,Green,Lego,5,1.2,20
+7,Green,Lego,5,1.2,20
+12,Blue,Board Game,7,1.5,30
+16,Red,Book,20,3.0,60
+16,Red,Book,20,3.0,60
+10,Red,Lego,8,1.0,25
+8,Blue,Board Game,3,0.8,15
+5,Red,Teddy Bear,2,0.5,10
+7,Green,Lego,5,1.2,20
+12,Blue,Board Game,7,1.5,30
+7,Green,Lego,5,1.2,20
+8,Blue,Board Game,3,0.8,15
+10,Red,Lego,8,1.0,25
+7,Green,Lego,5,1.2,20
+12,Blue,Board Game,7,1.5,30
+14,Green,Book,15,2.0,50
+16,Red,Book,20,3.0,60
+8,Blue,Board Game,3,0.8,15
+5,Red,Teddy Bear,2,0.5,10
+16,Red,Book,20,3.0,60
+5,Red,Teddy Bear,2,0.5,10
+18,Green,Gift Card,25,4.0,80
+8,Blue,Board Game,3,0.8,15
+12,Blue,Board Game,7,1.5,30
+10,Red,Lego,8,1.0,25
+10,Red,Lego,8,1.0,25
+5,Red,Teddy Bear,2,0.5,10
+5,Red,Teddy Bear,2,0.5,10
+18,Green,Gift Card,25,4.0,80
+16,Red,Book,20,3.0,60
+7,Green,Lego,5,1.2,20
+18,Green,Gift Card,25,4.0,80
+10,Red,Lego,8,1.0,25
+12,Blue,Board Game,7,1.5,30
+14,Green,Book,15,2.0,50
+12,Blue,Board Game,7,1.5,30
+14,Green,Book,15,2.0,50
+10,Red,Lego,8,1.0,25
+16,Red,Book,20,3.0,60
+14,Green,Book,15,2.0,50
+12,Blue,Board Game,7,1.5,30
+12,Blue,Board Game,7,1.5,30
+18,Green,Gift Card,25,4.0,80
+8,Blue,Board Game,3,0.8,15
+5,Red,Teddy Bear,2,0.5,10
+7,Green,Lego,5,1.2,20
+8,Blue,Board Game,3,0.8,15
+16,Red,Book,20,3.0,60
+10,Red,Lego,8,1.0,25
+8,Blue,Board Game,3,0.8,15
+8,Blue,Board Game,3,0.8,15
+18,Green,Gift Card,25,4.0,80
+18,Green,Gift Card,25,4.0,80
+8,Blue,Board Game,3,0.8,15
+14,Green,Book,15,2.0,50
+8,Blue,Board Game,3,0.8,15
+8,Blue,Board Game,3,0.8,15
+10,Red,Lego,8,1.0,25
+7,Green,Lego,5,1.2,20
+12,Blue,Board Game,7,1.5,30
+16,Red,Book,20,3.0,60
+10,Red,Lego,8,1.0,25
+12,Blue,Board Game,7,1.5,30
+5,Red,Teddy Bear,2,0.5,10
+12,Blue,Board Game,7,1.5,30
+5,Red,Teddy Bear,2,0.5,10
+8,Blue,Board Game,3,0.8,15
+10,Red,Lego,8,1.0,25
+16,Red,Book,20,3.0,60
+16,Red,Book,20,3.0,60
+16,Red,Book,20,3.0,60
+16,Red,Book,20,3.0,60
+14,Green,Book,15,2.0,50
+18,Green,Gift Card,25,4.0,80
+12,Blue,Board Game,7,1.5,30
+7,Green,Lego,5,1.2,20
+16,Red,Book,20,3.0,60
+5,Red,Teddy Bear,2,0.5,10
+7,Green,Lego,5,1.2,20
+14,Green,Book,15,2.0,50
+18,Green,Gift Card,25,4.0,80
+12,Blue,Board Game,7,1.5,30
+7,Green,Lego,5,1.2,20
+18,Green,Gift Card,25,4.0,80
+7,Green,Lego,5,1.2,20
+14,Green,Book,15,2.0,50
+8,Blue,Board Game,3,0.8,15
+16,Red,Book,20,3.0,60
+8,Blue,Board Game,3,0.8,15
+8,Blue,Board Game,3,0.8,15
+7,Green,Lego,5,1.2,20
+12,Blue,Board Game,7,1.5,30
+10,Red,Lego,8,1.0,25
+8,Blue,Board Game,3,0.8,15
+12,Blue,Board Game,7,1.5,30
+10,Red,Lego,8,1.0,25
+12,Blue,Board Game,7,1.5,30
+10,Red,Lego,8,1.0,25
+16,Red,Book,20,3.0,60
+8,Blue,Board Game,3,0.8,15
+10,Red,Lego,8,1.0,25
+10,Red,Lego,8,1.0,25
+14,Green,Book,15,2.0,50
+7,Green,Lego,5,1.2,20
+8,Blue,Board Game,3,0.8,15
+5,Red,Teddy Bear,2,0.5,10
+18,Green,Gift Card,25,4.0,80
+5,Red,Teddy Bear,2,0.5,10
+7,Green,Lego,5,1.2,20
+12,Blue,Board Game,7,1.5,30
+12,Blue,Board Game,7,1.5,30
+18,Green,Gift Card,25,4.0,80
+7,Green,Lego,5,1.2,20
+10,Red,Lego,8,1.0,25
+12,Blue,Board Game,7,1.5,30
+7,Green,Lego,5,1.2,20
+10,Red,Lego,8,1.0,25
+5,Red,Teddy Bear,2,0.5,10
+10,Red,Lego,8,1.0,25
+10,Red,Lego,8,1.0,25
+5,Red,Teddy Bear,2,0.5,10
+14,Green,Book,15,2.0,50
+12,Blue,Board Game,7,1.5,30
+14,Green,Book,15,2.0,50
+12,Blue,Board Game,7,1.5,30
+12,Blue,Board Game,7,1.5,30
+8,Blue,Board Game,3,0.8,15
+14,Green,Book,15,2.0,50
+16,Red,Book,20,3.0,60
+18,Green,Gift Card,25,4.0,80
+5,Red,Teddy Bear,2,0.5,10
+14,Green,Book,15,2.0,50
+7,Green,Lego,5,1.2,20
+14,Green,Book,15,2.0,50
+16,Red,Book,20,3.0,60
+16,Red,Book,20,3.0,60
+8,Blue,Board Game,3,0.8,15
+5,Red,Teddy Bear,2,0.5,10
+8,Blue,Board Game,3,0.8,15
+7,Green,Lego,5,1.2,20
+16,Red,Book,20,3.0,60
+10,Red,Lego,8,1.0,25
+16,Red,Book,20,3.0,60
+16,Red,Book,20,3.0,60
+16,Red,Book,20,3.0,60
+7,Green,Lego,5,1.2,20
+14,Green,Book,15,2.0,50
+10,Red,Lego,8,1.0,25
+7,Green,Lego,5,1.2,20
+18,Green,Gift Card,25,4.0,80
+10,Red,Lego,8,1.0,25
+10,Red,Lego,8,1.0,25
+16,Red,Book,20,3.0,60
+12,Blue,Board Game,7,1.5,30
+5,Red,Teddy Bear,2,0.5,10
+8,Blue,Board Game,3,0.8,15
+7,Green,Lego,5,1.2,20
+14,Green,Book,15,2.0,50
+18,Green,Gift Card,25,4.0,80
+5,Red,Teddy Bear,2,0.5,10
+18,Green,Gift Card,25,4.0,80
+16,Red,Book,20,3.0,60
+16,Red,Book,20,3.0,60
+10,Red,Lego,8,1.0,25
+8,Blue,Board Game,3,0.8,15
+18,Green,Gift Card,25,4.0,80
+14,Green,Book,15,2.0,50
+18,Green,Gift Card,25,4.0,80
+8,Blue,Board Game,3,0.8,15
+7,Green,Lego,5,1.2,20
+7,Green,Lego,5,1.2,20
+7,Green,Lego,5,1.2,20
+16,Red,Book,20,3.0,60
+7,Green,Lego,5,1.2,20
+10,Red,Lego,8,1.0,25
+5,Red,Teddy Bear,2,0.5,10
+12,Blue,Board Game,7,1.5,30
+18,Green,Gift Card,25,4.0,80
+14,Green,Book,15,2.0,50
+18,Green,Gift Card,25,4.0,80
+10,Red,Lego,8,1.0,25
+7,Green,Lego,5,1.2,20
+12,Blue,Board Game,7,1.5,30
+14,Green,Book,15,2.0,50
+12,Blue,Board Game,7,1.5,30
+10,Red,Lego,8,1.0,25
+16,Red,Book,20,3.0,60
+10,Red,Lego,8,1.0,25
+16,Red,Book,20,3.0,60
+16,Red,Book,20,3.0,60
+16,Red,Book,20,3.0,60
+18,Green,Gift Card,25,4.0,80
+7,Green,Lego,5,1.2,20
+14,Green,Book,15,2.0,50
+8,Blue,Board Game,3,0.8,15
+16,Red,Book,20,3.0,60
+5,Red,Teddy Bear,2,0.5,10
+14,Green,Book,15,2.0,50
+14,Green,Book,15,2.0,50
+8,Blue,Board Game,3,0.8,15
+14,Green,Book,15,2.0,50
+12,Blue,Board Game,7,1.5,30
+16,Red,Book,20,3.0,60
+7,Green,Lego,5,1.2,20
+14,Green,Book,15,2.0,50
+14,Green,Book,15,2.0,50
+12,Blue,Board Game,7,1.5,30
+12,Blue,Board Game,7,1.5,30
+5,Red,Teddy Bear,2,0.5,10
+16,Red,Book,20,3.0,60
+5,Red,Teddy Bear,2,0.5,10
+18,Green,Gift Card,25,4.0,80
+7,Green,Lego,5,1.2,20
+12,Blue,Board Game,7,1.5,30
+7,Green,Lego,5,1.2,20
+14,Green,Book,15,2.0,50
+18,Green,Gift Card,25,4.0,80
+8,Blue,Board Game,3,0.8,15
+14,Green,Book,15,2.0,50
+12,Blue,Board Game,7,1.5,30
+7,Green,Lego,5,1.2,20
+5,Red,Teddy Bear,2,0.5,10
+5,Red,Teddy Bear,2,0.5,10
+18,Green,Gift Card,25,4.0,80
+14,Green,Book,15,2.0,50
+16,Red,Book,20,3.0,60
+12,Blue,Board Game,7,1.5,30
+12,Blue,Board Game,7,1.5,30
+12,Blue,Board Game,7,1.5,30
+14,Green,Book,15,2.0,50
+16,Red,Book,20,3.0,60
+10,Red,Lego,8,1.0,25
+7,Green,Lego,5,1.2,20
+10,Red,Lego,8,1.0,25
+7,Green,Lego,5,1.2,20
+12,Blue,Board Game,7,1.5,30
+18,Green,Gift Card,25,4.0,80
+18,Green,Gift Card,25,4.0,80
+10,Red,Lego,8,1.0,25
+18,Green,Gift Card,25,4.0,80
+8,Blue,Board Game,3,0.8,15
+16,Red,Book,20,3.0,60
+16,Red,Book,20,3.0,60
+7,Green,Lego,5,1.2,20
+10,Red,Lego,8,1.0,25
+12,Blue,Board Game,7,1.5,30
+18,Green,Gift Card,25,4.0,80
+8,Blue,Board Game,3,0.8,15
+16,Red,Book,20,3.0,60
+5,Red,Teddy Bear,2,0.5,10
+18,Green,Gift Card,25,4.0,80
+8,Blue,Board Game,3,0.8,15
+14,Green,Book,15,2.0,50
+12,Blue,Board Game,7,1.5,30
+7,Green,Lego,5,1.2,20
+18,Green,Gift Card,25,4.0,80
+16,Red,Book,20,3.0,60
+16,Red,Book,20,3.0,60
+8,Blue,Board Game,3,0.8,15
+8,Blue,Board Game,3,0.8,15
+12,Blue,Board Game,7,1.5,30
+16,Red,Book,20,3.0,60
+10,Red,Lego,8,1.0,25
+8,Blue,Board Game,3,0.8,15
+18,Green,Gift Card,25,4.0,80
+18,Green,Gift Card,25,4.0,80
+5,Red,Teddy Bear,2,0.5,10
+12,Blue,Board Game,7,1.5,30
+8,Blue,Board Game,3,0.8,15
+5,Red,Teddy Bear,2,0.5,10
+18,Green,Gift Card,25,4.0,80
+7,Green,Lego,5,1.2,20
+8,Blue,Board Game,3,0.8,15
+10,Red,Lego,8,1.0,25
+8,Blue,Board Game,3,0.8,15
+10,Red,Lego,8,1.0,25
+16,Red,Book,20,3.0,60
+7,Green,Lego,5,1.2,20
+12,Blue,Board Game,7,1.5,30
+10,Red,Lego,8,1.0,25
+8,Blue,Board Game,3,0.8,15
+8,Blue,Board Game,3,0.8,15
+12,Blue,Board Game,7,1.5,30
+14,Green,Book,15,2.0,50
+16,Red,Book,20,3.0,60
+8,Blue,Board Game,3,0.8,15
+18,Green,Gift Card,25,4.0,80
